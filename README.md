@@ -21,7 +21,7 @@ I'm a **Computer Science student** with a passion for building scalable, impactf
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
+#
 
 ### ⚙️ Tech Stack
 - **Languages**: C#, C++, MySQL, HTML, CSS
