@@ -15,8 +15,8 @@ I'm a **Computer Science student** with a passion for building scalable, impactf
 
 ### 📌 Pinned Projects
 - **[FanID Ticketing System](https://github.com/Leogg22/fanid-ticketing-system)** – A ticket management system with user authentication developed in C.
-- **[Cyberpuerta Store Database](https://github.com/username/cyberpuerta-store-db)** – A relational database for an e-commerce platform built with MySQL.
-- **[E-commerce Website](https://github.com/username/ecommerce-website)** – A full-featured online store with cart and checkout.
+- **[Cyberpuerta Store Database](https://www.youtube.com/watch?v=ReSrtJ4dtE4&t=584s&ab_channel=LeonardoGonzalezGarza)** – A relational database for an e-commerce platform built with MySQL.
+- **[E-commerce Website](http://just2084.temp.domains/~tecnico8/techdo2/)** – A full-featured online store with cart and checkout.
 - **[Currency Exchange System](https://github.com/username/currency-exchange-system)** – A secure application to view and calculate exchange rates.
 - **[Exchange System}()** – A real-world app with secure data handling for currency conversion.
 
