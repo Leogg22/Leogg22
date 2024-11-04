@@ -43,7 +43,7 @@ I'm a **Computer Science student** with a passion for building scalable, impactf
 ### 💬 Contact
 Feel free to reach out if you'd like to collaborate, discuss tech, or connect professionally. You can reach me at [contact@leonardoglz.com](mailto:contact@leonardoglz.com).
 
-###📊 Stats
+### 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leogg22&show_icons=true&theme=tokyonight)
 
